@@ -1,0 +1,2 @@
+# Characteristics-of-Stroke-Reports-after-COVID-19-Vaccines-An-Analysis-of-VAERS-2020-2025-
+Developed, executed R scripts, cleaning raw data (~ 3 million rows) into structured dataset (590K rows) from VAERS (2020 to 2025). Performed data processing, cleaning, transformation, preparation of COVID-19  vaccines based adverse events dataset, for stroke case analysis . The findings were visualised by pivot table GGplot visualization.  
